@@ -1,1 +1,2 @@
-# Power-BI-
+# Power-BI
+: I have experience in creating visually pleasing Power BI dashboards using various datasets. To ensure data accuracy, I cleaned and transformed the data using Power Query Editor and then used DAX to create new measures and columns. The result is a set of interactive dashboards that provide valuable insights to help inform business decisions. I am excited to continue using my skills in Power BI to create impactful and insightful data visualizations.
